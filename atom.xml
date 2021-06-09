@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MyBlog</title>
+  <title>CaiLai的小站</title>
   
-  <subtitle>看看我的眼睛，你会发现你对我而言意味着什么。</subtitle>
+  <subtitle>Brief is life， but love is long</subtitle>
   <link href="https://cailai.github.io/atom.xml" rel="self"/>
   
   <link href="https://cailai.github.io/"/>
